@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.banner {
+    background-image: url(../Assets/imges/slider.jpg);
+    padding: 100px 0px 50px 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
